@@ -1,0 +1,21 @@
+/* Aqui estou fazendo um override ou uma sobrescrita de código no css do bootstrap */
+.modal-dialog {
+    max-width: 780px;
+}
+
+
+
+
+ /*
+.tabela thead{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+}
+
+#tipo{
+    align-self: center;
+}
+*/
+
